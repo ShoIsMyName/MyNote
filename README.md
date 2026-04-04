@@ -125,4 +125,4 @@ Explaining about : SIMBOX
 |A1:B3:C5:C2:67:AB| 82 m |
 |A1:B4:C5:C1:67:AB| 10 m |
 
-<img src="https://www.researchgate.net/publication/306325749/figure/fig2/AS:397183200317447@1471707262886/TRIANGULATION-USING-3-BEACONS-B-Experiments-Results-Our-positioning-algorithm-was.png" style="width:400px">
+<img src="https://github.com/ShoIsMyName/MyNote/blob/main/just%20picture%20for%20the%20note/TRIANGULATION-USING-3-BEACONS-B-Experiments-Results-Our-positioning-algorithm-was.png?raw=true" style="width:400px">
