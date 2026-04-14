@@ -101,7 +101,7 @@ Explaining about : SIMBOX
   - Location Correlation | คล้ายกับ Wifi positioning ที่อธิบายไปข้างต้น  คือการเอา MAC Address ไปเทียบกับฐานข้อมูลกลาง
 
 
-    <img src="https://www.researchgate.net/publication/359510380/figure/fig1/AS:1138604134928394@1648475788926/The-main-process-of-flow-correlation-attack-on-Tor-The-adversary-intercepts-Tor-flows.jpg" style="width:400px">
+    <img src="https://github.com/ShoIsMyName/MyNote/blob/main/just%20picture%20for%20the%20note/correllationattack.jpg?raw=true" style="width:400px">
 
   #### การทำลายความเป็นส่วนตัว (De-anonymization)
   ถึงแม้เราจะเปิด MAC Randomization แต่ถ้ามือถือเรามีรูปแบบการส่งข้อมูลเฉพาะตัว เช่น ส่งสัญญาณเช็คเมลทุกๆ5นาที ผู้ที่ดักฟังสามารถใช้ Statistical Correlation เพื่อยืนยันได้ว่า MAC ปลอมอันที่ 1 ในวันแรก กับ MAC ปลอมอันที่ 2 ที่โผล่มาคนละวัน จริงๆแล้วคือคนเดียวกัน
